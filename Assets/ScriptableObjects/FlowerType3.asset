@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8fd033558e358479b2c2e334e845ad, type: 3}
+  m_Name: FlowerType3
+  m_EditorClassIdentifier: 
+  Flower: {fileID: 4057872072965914161, guid: 28d0546fbbe68cf45a0bc50e654b7f47, type: 3}
+  GrowUpSpeed: 0.2
+  Florescence: 30
+  Length: 0
+  InitialHeight: 0.3
+  FlowerGapTime: 15
+  RandomHeightGap: 0.4

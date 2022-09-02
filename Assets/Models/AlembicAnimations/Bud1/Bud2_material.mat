@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bud2_material
+  m_Shader: {fileID: 4800000, guid: 7e664ac460449ba4494f5233791019e5, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _VAT_normals:
+        m_Texture: {fileID: 2800000, guid: b3721d315e8a07745b11ad9f54fa3792, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VAT_positions:
+        m_Texture: {fileID: 2800000, guid: ae6097e947759cc4ea89f2e7bc88010d, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 1
+    - _AlphaCutoff: 0.5
+    - _Framecount: 202
+    - _GradientAdjust: 3.45
+    - _Metalness: 0
+    - _Roughness: 0
+    - _Timeposition: 1
+    - __dirty: 1
+    m_Colors:
+    - _BottomColor: {r: 0.4892013, g: 0.7830346, b: 0.9150943, a: 0}
+    - _Color: {r: 1, g: 0.5773492, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TopColor: {r: 0.23921567, g: 0.5882353, b: 0.74509805, a: 0}
+  m_BuildTextureStacks: []
